@@ -1,4 +1,4 @@
-### Hi there 👋
+### I changed my Github username to [howard36](https://github.com/howard36)
 
 <!--
 **Plasma-Vortex/Plasma-Vortex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
